@@ -1,0 +1,19 @@
+{
+  "name": "sushil_so_node_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "chai": "^3.5.0",
+    "chai-http": "^3.0.0",
+    "cors": "^2.8.3",
+    "express": "^4.14.0",
+    "mocha": "^3.2.0"
+  }
+}
